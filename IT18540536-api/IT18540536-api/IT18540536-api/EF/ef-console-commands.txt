@@ -1,0 +1,5 @@
+## open cmd from the project location
+## not inside the solution includes directory 
+> dotnet tool install --global dotnet-ef --version 3.0.0
+
+> dotnet ef database update
